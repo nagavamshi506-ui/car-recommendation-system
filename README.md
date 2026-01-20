@@ -1,4 +1,3 @@
-# car-recommendation-system
 # Car Suggestion Website
 
 ## About the Project
