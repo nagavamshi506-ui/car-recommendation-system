@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "Maruti",
+    "model": "Swift",
+    "price": 650000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "mileage": 22.5,
+    "seats": 5,
+    "rating": 4.4,
+    "safety": 4
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20",
+    "price": 820000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "mileage": 20,
+    "seats": 5,
+    "rating": 4.5,
+    "safety": 4
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon",
+    "price": 900000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "mileage": 23,
+    "seats": 5,
+    "rating": 4.6,
+    "safety": 5
+  },
+  {
+    "brand": "Tata",
+    "model": "Tiago EV",
+    "price": 870000,
+    "fuel": "EV",
+    "transmission": "Automatic",
+    "mileage": 0,
+    "seats": 5,
+    "rating": 4.7,
+    "safety": 4
+  }
+]
